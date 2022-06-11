@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeFixer", "PrototypeFixer.csproj", "{35D02447-F202-42C8-A552-8CCC050C14CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D02447-F202-42C8-A552-8CCC050C14CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D02447-F202-42C8-A552-8CCC050C14CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D02447-F202-42C8-A552-8CCC050C14CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D02447-F202-42C8-A552-8CCC050C14CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0394F9AE-BF48-4CD0-95DB-FDA6482D90E5}
+	EndGlobalSection
+EndGlobal
